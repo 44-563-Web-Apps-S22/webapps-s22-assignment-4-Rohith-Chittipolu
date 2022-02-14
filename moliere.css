@@ -1,0 +1,11 @@
+.speech{font-family: 'Courier New', Courier, monospace;font: size 14px; color:black;}
+.direction{font-family: 'Times New Roman', Times, serif;font: size 12px;color: black;background-color: bisque;}
+.name{font-family: Arial, Helvetica, sans-serif;font: size 14px;color: black;}
+.direction a:hover{
+    background-color: aquamarine;
+    color: brown;
+
+}
+.MAR{color: azure;}
+.CLE{color: palevioletred;}
+.FRO{color: orange;}

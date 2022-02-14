@@ -1,14 +1,18 @@
 .speech{font-family: 'Courier New', Courier, monospace;font: size 14px; color:black;}
 .direction{font-family: 'Times New Roman', Times, serif;font: size 12px;color: black;background-color: bisque;}
-.name{font-family: Arial, Helvetica, sans-serif;font: size 14px;color:yellowgreen;}
+.name{font-family: Arial, Helvetica, sans-serif;font: size 14px;color:black;}
 .direction:hover{
     background-color: aquamarine;
     color: whitesmoke;
 
 }
+.name:hover{
+    text-shadow:2px 3px 5px rgb(236, 221, 9)
+}
 .MAR{color: blue;}
 .CLE{color: palevioletred;}
 .FRO{color: orange;}
+.ELI{color: blueviolet;}
 table,td,th{
     padding: 2px;
     margin: 1px solid black;

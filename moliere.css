@@ -9,3 +9,19 @@
 .MAR{color: blue;}
 .CLE{color: palevioletred;}
 .FRO{color: orange;}
+table,td,th{
+    padding: 2px;
+    margin: 1px solid black;
+    border: 1px solid black;
+
+}
+td{
+    color: blue;
+    margin: 1px solid black;
+    text-align: left;
+}
+th{
+    color: red;
+    margin: 1px solid black;
+    text-align: center;
+}

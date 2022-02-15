@@ -7,7 +7,8 @@
 
 }
 .name:hover{
-    text-shadow:2px 3px 5px rgb(236, 221, 9)
+    text-shadow:2px 3px 5px rgb(236, 221, 9);
+    border: solid 2px grey;
 }
 .MAR{color: blue;}
 .CLE{color: palevioletred;}
@@ -32,13 +33,22 @@ th{
 tr:nth-child(even){
   background-color: yellow;
 }
-ul {
+    ul.navbar-horizontal {
+    
     list-style-type: none;
-    margin: 2px;
-    padding: 1px;
-  }
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-  }
+    margin: 1px;
+    padding: 2px;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:aliceblue
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:2px
+    }
+    ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:white;
+    }

@@ -42,7 +42,7 @@ tr:nth-child(even){
     ul.navbar-horizontal li {
     float:left; 
     color:#000;
-    background-color:aliceblue
+    background-color:aliceblue;
     }
     ul.navbar-horizontal a {
     display:block;

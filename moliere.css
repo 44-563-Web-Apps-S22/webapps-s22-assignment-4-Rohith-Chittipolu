@@ -29,3 +29,16 @@ th{
     margin: 1px solid black;
     text-align: center;
 }
+tr:nth-child(even){
+  background-color: yellow;
+}
+ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 1px;
+  }
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }

@@ -46,7 +46,7 @@ tr:nth-child(even){
     }
     ul.navbar-horizontal a {
     display:block;
-    padding:2px
+    padding:2px;
     }
     ul.navbar-horizontal a:hover {  
     background-color: #555;

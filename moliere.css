@@ -52,3 +52,6 @@ tr:nth-child(even){
     background-color: #555;
     color:white;
     }
+    .icon{
+        float: right;
+    }
